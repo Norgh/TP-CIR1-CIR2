@@ -1,0 +1,7 @@
+﻿  TriSelection.c
+C:\Users\Administrateur\source\repos\TDTF751\TriSelection.c(23,22): warning C4047: '!=' : les niveaux d'indirection de 'int' et de 'void *' sont différents
+C:\Users\Administrateur\source\repos\TDTF751\TriSelection.c(28,18): warning C4047: '=' : les niveaux d'indirection de 'int' et de 'void *' sont différents
+C:\Users\Administrateur\source\repos\TDTF751\TriSelection.c(10,1): warning C4047: 'initialisation' : les niveaux d'indirection de 'int' et de 'void *' sont différents
+C:\Users\Administrateur\source\repos\TDTF751\TriSelection.c(39,18): warning C4244: 'fonction' : conversion de 'time_t' en 'unsigned int', perte possible de données
+C:\Users\Administrateur\source\repos\TDTF751\TriSelection.c(31): warning C4716: 'TriSelection' : doit retourner une valeur
+  TDTF751.vcxproj -> C:\Users\Administrateur\source\repos\TDTF751\Debug\TDTF751.exe

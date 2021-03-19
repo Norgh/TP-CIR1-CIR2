@@ -1,0 +1,4 @@
+﻿  Exo2.c
+C:\Users\Administrateur\source\repos\TPC6\Exercice2\Exo2.c(17,19): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\Administrateur\source\repos\TPC6\Exercice2\Exo2.c(19,30): warning C4018: '>' : incompatibilité signed/unsigned
+  Exercice2.vcxproj -> C:\Users\Administrateur\source\repos\TPC6\Debug\Exercice2.exe

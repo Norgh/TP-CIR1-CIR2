@@ -1,0 +1,5 @@
+﻿  Exo2.c
+C:\Users\Administrateur\source\repos\TPC6\Exercice2\Exo2.c(16,19): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\Administrateur\source\repos\TPC6\Exercice2\Exo2.c(18,30): warning C4018: '>' : incompatibilité signed/unsigned
+C:\Users\Administrateur\source\repos\TPC6\Exercice2\Exo2.c(55,21): warning C4013: 'getch' non défini(e) ; extern retournant int pris par défaut
+  Exercice2.vcxproj -> C:\Users\Administrateur\source\repos\TPC6\x64\Debug\Exercice2.exe

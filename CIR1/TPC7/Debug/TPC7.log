@@ -1,0 +1,5 @@
+﻿  outil.c
+C:\Users\Administrateur\source\repos\TPC7\outil.c(199,6): warning C4101: 'ind_fin' : variable locale non référencée
+C:\Users\Administrateur\source\repos\TPC7\outil.c(244,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\Administrateur\source\repos\TPC7\outil.c(248,22): warning C4018: '<' : incompatibilité signed/unsigned
+  TPC7.vcxproj -> C:\Users\Administrateur\source\repos\TPC7\Debug\TPC7.exe

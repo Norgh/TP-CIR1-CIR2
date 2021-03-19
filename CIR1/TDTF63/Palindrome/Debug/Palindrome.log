@@ -1,0 +1,4 @@
+﻿  palindrome.c
+C:\Users\Administrateur\source\repos\TDTF63\Palindrome\palindrome.c(28,12): warning C4098: 'saisir' : fonction 'void' retournant une valeur
+C:\Users\Administrateur\source\repos\TDTF63\Palindrome\palindrome.c(48,19): warning C4013: 'tolower' non défini(e) ; extern retournant int pris par défaut
+  Palindrome.vcxproj -> C:\Users\Administrateur\source\repos\TDTF63\Debug\Palindrome.exe

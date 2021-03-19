@@ -1,0 +1,46 @@
+﻿  seatest.c
+C:\tmp\test\Examen 7mai2020\Examen 7mai2020\seatest.c(17,19): warning C4013: 'strcasecmp' non défini(e) ; extern retournant int pris par défaut
+C:\tmp\test\Examen 7mai2020\Examen 7mai2020\seatest.c(189,1): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : voir la déclaration de 'sprintf'
+C:\tmp\test\Examen 7mai2020\Examen 7mai2020\seatest.c(197,1): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : voir la déclaration de 'sprintf'
+C:\tmp\test\Examen 7mai2020\Examen 7mai2020\seatest.c(206,1): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : voir la déclaration de 'sprintf'
+C:\tmp\test\Examen 7mai2020\Examen 7mai2020\seatest.c(216,1): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : voir la déclaration de 'sprintf'
+C:\tmp\test\Examen 7mai2020\Examen 7mai2020\seatest.c(228,1): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : voir la déclaration de 'sprintf'
+C:\tmp\test\Examen 7mai2020\Examen 7mai2020\seatest.c(233,1): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : voir la déclaration de 'sprintf'
+C:\tmp\test\Examen 7mai2020\Examen 7mai2020\seatest.c(238,1): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : voir la déclaration de 'sprintf'
+C:\tmp\test\Examen 7mai2020\Examen 7mai2020\seatest.c(244,1): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : voir la déclaration de 'sprintf'
+C:\tmp\test\Examen 7mai2020\Examen 7mai2020\seatest.c(254,1): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : voir la déclaration de 'sprintf'
+C:\tmp\test\Examen 7mai2020\Examen 7mai2020\seatest.c(262,1): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : voir la déclaration de 'sprintf'
+C:\tmp\test\Examen 7mai2020\Examen 7mai2020\seatest.c(270,1): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : voir la déclaration de 'sprintf'
+C:\tmp\test\Examen 7mai2020\Examen 7mai2020\seatest.c(278,1): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : voir la déclaration de 'sprintf'
+C:\tmp\test\Examen 7mai2020\Examen 7mai2020\seatest.c(289,1): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+C:\tmp\test\Examen 7mai2020\Examen 7mai2020\seatest.c(316,1): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : voir la déclaration de 'sprintf'
+C:\tmp\test\Examen 7mai2020\Examen 7mai2020\seatest.c(339,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : voir la déclaration de 'strcpy'
+C:\tmp\test\Examen 7mai2020\Examen 7mai2020\seatest.c(389,43): warning C4013: 'GetTickCount64' non défini(e) ; extern retournant int pris par défaut
+C:\tmp\test\Examen 7mai2020\Examen 7mai2020\seatest.c(396,1): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : voir la déclaration de 'sprintf'
+C:\tmp\test\Examen 7mai2020\Examen 7mai2020\seatest.c(406,1): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : voir la déclaration de 'sprintf'
+C:\tmp\test\Examen 7mai2020\Examen 7mai2020\seatest.c(408,1): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : voir la déclaration de 'sprintf'
+  test_suite_one.c
+C:\tmp\test\Examen 7mai2020\Examen 7mai2020\test_suite_one.c(43,2): warning C4113: 'void (__cdecl *)()' est différent de 'void (__cdecl *)(void)' dans les listes de paramètres
+C:\tmp\test\Examen 7mai2020\Examen 7mai2020\test_suite_one.c(44,2): warning C4113: 'void (__cdecl *)()' est différent de 'void (__cdecl *)(void)' dans les listes de paramètres
+C:\tmp\test\Examen 7mai2020\Examen 7mai2020\test_suite_one.c(45,2): warning C4113: 'void (__cdecl *)()' est différent de 'void (__cdecl *)(void)' dans les listes de paramètres
+  test_suite_two.c
+C:\tmp\test\Examen 7mai2020\Examen 7mai2020\test_suite_two.c(18,2): warning C4113: 'void (__cdecl *)()' est différent de 'void (__cdecl *)(void)' dans les listes de paramètres
+C:\tmp\test\Examen 7mai2020\Examen 7mai2020\test_suite_two.c(19,2): warning C4113: 'void (__cdecl *)()' est différent de 'void (__cdecl *)(void)' dans les listes de paramètres
+  Génération de code en cours...

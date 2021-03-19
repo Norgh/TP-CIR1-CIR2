@@ -1,0 +1,3 @@
+﻿  Tri_Tas.c
+C:\Users\Administrateur\source\repos\Tri_Tas\Tri_Tas.c(51,18): warning C4244: 'fonction' : conversion de 'time_t' en 'unsigned int', perte possible de données
+  Tri_Tas.vcxproj -> C:\Users\Administrateur\source\repos\Tri_Tas\Debug\Tri_Tas.exe

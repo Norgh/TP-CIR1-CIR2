@@ -1,0 +1,9 @@
+﻿  templates.cpp
+C:\Users\Administrateur\source\repos\CIR2\Templates\templates.cpp(14,10): warning C4244: 'initialisation' : conversion de 'T' en 'float', perte possible de données
+          with
+          [
+              T=int
+          ]
+C:\Users\Administrateur\source\repos\CIR2\Templates\templates.cpp(16,16): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+C:\Users\Administrateur\source\repos\CIR2\Templates\templates.cpp(16,27): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+  Templates.vcxproj -> C:\Users\Administrateur\source\repos\CIR2\Templates\Debug\Templates.exe

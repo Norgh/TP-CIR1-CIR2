@@ -1,0 +1,5 @@
+﻿  denigma.c
+C:\Users\Administrateur\source\repos\Enigma 2.0\Denigma\denigma.c(73,7): warning C4013: 'main' non défini(e) ; extern retournant int pris par défaut
+C:\Users\Administrateur\source\repos\Enigma 2.0\Denigma\denigma.c(77,11): warning C4098: 'nouveaumot' : fonction 'void' retournant une valeur
+C:\Users\Administrateur\source\repos\Enigma 2.0\Denigma\denigma.c(84,20): warning C4013: 'readChar' non défini(e) ; extern retournant int pris par défaut
+  Denigma.vcxproj -> C:\Users\Administrateur\source\repos\Enigma 2.0\Debug\Denigma.exe

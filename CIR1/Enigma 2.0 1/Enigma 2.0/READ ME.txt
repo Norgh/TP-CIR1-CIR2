@@ -1,0 +1,4 @@
+Mets ça dans visual et décode ça (en chargeant dénigma et déchargeant énigma au besoin)
+truc à décode : P DO RZ
+variables : 1, 2, 3 (elles sont dans l'ordre)
+/!\BIEN SUIVRE CE QUE LA CONSOLE DIT/!\
